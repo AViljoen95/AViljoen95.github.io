@@ -1,0 +1,12 @@
+a:hover{
+    color:cornflowerblue;
+}
+a{
+    color: blue;
+}
+#Header1{
+    font-size: 30px;
+}
+#Header1:hover{
+    color: brown;
+}
